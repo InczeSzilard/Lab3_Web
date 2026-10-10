@@ -1,0 +1,11 @@
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\bin\Debug\Lab3Window.exe.config
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\bin\Debug\Lab3Window.exe
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\bin\Debug\Lab3Window.pdb
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.csproj.AssemblyReference.cache
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.Form1.resources
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.Properties.Resources.resources
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.csproj.GenerateResource.cache
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.csproj.CoreCompileInputs.cache
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.exe
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.pdb
+C:\Users\szila\Downloads\Lab3Window\Lab3Window\obj\Debug\Lab3Window.exe.config
